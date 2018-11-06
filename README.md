@@ -10,7 +10,7 @@
 >- 协会副会长：
 - 教学部
 >- 教学部部长：[汪隽劼](https://github.com/lsmind)
->- 教学部副部长：
+>- 教学部副部长：[江浩俊](https://github.com/JM0011)
 >- 教学部副部长：
 - 组织部: ~~挖坑待填~~
 - 外联部:~~挖坑待填~~
@@ -26,7 +26,7 @@
 
 ## 课程资料
 - [x] 1. [linux历史及发行版的选择和安装](./doc/Class1KnowLinxDistro)
-`linux` `Distro` `summary`
+`linux` `Distro`
 
-- [x] 2. [linux相关应用软件的选择安装](./doc/Class2KnowLinxSoftware)
+- [ ] 2. [linux相关应用软件的选择安装](./doc/Class2KnowLinxSoftware)
 `linux` `Software`
