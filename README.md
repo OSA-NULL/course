@@ -8,13 +8,13 @@
 >- 协会会长：[廖思睿](https://github.com/)
 >- 协会团支书：
 >- 协会副会长：
-教学部
+- 教学部
 >- 教学部部长：[汪隽劼](https://github.com/lsmind)
 >- 教学部副部长：
 >- 教学部副部长：
-组织部: ~~挖坑待填~~
-外联部:~~挖坑待填~~
-宣传部:~~挖坑待填~~
+- 组织部: ~~挖坑待填~~
+- 外联部:~~挖坑待填~~
+- 宣传部:~~挖坑待填~~
 
 ## 目录结构
  目录 | 内容
@@ -25,5 +25,8 @@
  doc | 课程文档
 
 ## 课程资料
-1. linux历史及发行版的选择和安装 [x]
+- [x] 1. [linux历史及发行版的选择和安装](./doc/Class1KnowLinxDistro)
+`linux` `Distro` `summary`
 
+- [x] 2. [linux相关应用软件的选择安装](./doc/Class2KnowLinxSoftware)
+`linux` `Software`
