@@ -25,10 +25,10 @@
 >- 副部长：蒙海涛
 
 ## 课程目录
-- [x] 1. [linux历史及发行版的选择和安装](./doc/knowLinuxDistro)
+- [x] 1. [linux历史及发行版的选择和安装](./doc/knowLinuxDistro.md)
 `linux` `Distro`
 
-- [ ] 2. [linux相关应用软件的选择和安装](./doc/knowLinuxSoftware)
+- [ ] 2. [linux相关应用软件的选择和安装](./doc/knowLinuxSoftware.md)
 `linux` `Software`
 
 - [ ] 3. [伪代码和程序设计]()
@@ -45,4 +45,4 @@
  links | 引用链接
  doc | 课程文档
 
- [回到开头](README)
+ [回到顶部](#readme)
