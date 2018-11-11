@@ -31,7 +31,7 @@
 - [ ] 2. [linux相关应用软件的选择和安装](./doc/knowLinuxSoftware.md)
 `linux` `Software`
 
-- [ ] 3. [伪代码和程序设计]()
+- [x] 3. [伪代码和程序设计]()
 `programming`
 
 - [ ] 4. [内存管理]()
@@ -40,9 +40,7 @@
 ## 文件目录结构
  目录 | 内容
  ---  | ---
- image | 图片
- ppt | 演示文档
- links | 引用链接
+ [ppt](./ppt) | 演示文档
  doc | 课程文档
 
  [回到顶部](#readme)
