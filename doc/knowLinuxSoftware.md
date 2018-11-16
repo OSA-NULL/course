@@ -22,7 +22,10 @@
 
 ## 开发环境搭建
 1. 编辑器选择
+![](./pictures/editor.jpg)
     1. vim & emace
+    ![](./pictures/vim&emacs.jpg)
+    ![](./pictures/vim.gif)
     2. atom
     3. sublime
 2. 编译器安装和使用
@@ -32,4 +35,6 @@
 
 ## 终端使用
 archlinux相关文档:<https://wiki.archlinux.org/index.php/Core_utilities_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)>
+
+[软件推荐](https://linux.cn/article-7712-1.html)
 
