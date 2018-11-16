@@ -8,7 +8,7 @@
 
 ## 教程链接
 ![](./pictures/distrohero.jpg)  
- 2018年最好的linux发行版介绍:<https://www.techradar.com/news/best-linux-distro> 
+ 2018年最好的linux发行版介绍:<https://www.techradar.com/news/best-linux-distro>  
  2018 最佳Linux 发行版排行榜: <https://zhuanlan.zhihu.com/p/33771775>  
  linux维基百科: <https://zh.m.wikipedia.org/wiki/Linux>
 
