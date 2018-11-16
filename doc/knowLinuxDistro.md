@@ -13,55 +13,55 @@
  linux维基百科: <https://zh.m.wikipedia.org/wiki/Linux>
 
 ## 发行版官网
-![](./pictures/ubuntu.png)
+![](./pictures/ubuntu.png)  
  ubuntu: <https://wiki.ubuntu.com>  
  `简单` `易用` `用户多` `基于debian`  
-![](./pictures/ubuntushow.jpg)
+![](./pictures/ubuntushow.jpg)  
 ---
-![](./pictures/arch.png)
+![](./pictures/arch.png)  
  archlinux: <https://wiki.archlinux.org>  
  `定制` `文档好` `包管理强` `滚动发行`  
-![](./pictures/archshow.png)
+![](./pictures/archshow.png)  
 ---
-![](./pictures/manjaro.png)
+![](./pictures/manjaro.png)  
  manjaro: <https://manjaro.org>  
  `美观` `基于arch` `新手友好` `滚动更新`  
-![](./pictures/manjaroshow.jpg)
+![](./pictures/manjaroshow.jpg)  
 ---
-![](./pictures/debian.png)
+![](./pictures/debian.png)  
  debian: <https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=Ê×Ò³>  
  `GNU` `稳定` `简单`  
-![](./pictures/debianshow.png)
+![](./pictures/debianshow.png)  
 ---
-![](./pictures/deepin.png)
+![](./pictures/deepin.png)  
  deepin: <https://wiki.deepin.org>  
  `国产` `美观` `windows移植程序多`  
-![](./pictures/deepinshow.jpeg)
+![](./pictures/deepinshow.jpeg)  
 ---
-![](./pictures/centos.png)
+![](./pictures/centos.png)  
  centos: <https://wiki.centos.org>  
  `RedHat` `稳定` `服务器`  
-![](./pictures/centoshow.jpeg)
+![](./pictures/centoshow.jpeg)  
 ---
-![](./pictures/redhat.png)
+![](./pictures/redhat.png)  
 RedHatEnterprise: <https://www.redhat.com/zh/technologies/linux-platforms/enterprise-linux>  
  `RedHat` `稳定` `服务器`  
-![](./pictures/redhatshow.png)
+![](./pictures/redhatshow.png)  
 ---
-![](./pictures/ezgo.png)
+![](./pictures/ezgo.png)  
  ezgo: <https://ezgo.westart.tw>  
  `台湾` `教育` `基于ubuntu` `亲子`  
-![](./pictures/ezgoshow.png)
+![](./pictures/ezgoshow.png)  
 ---
-![](./pictures/clearlinux.jpeg)
+![](./pictures/clearlinux.jpeg)  
  ClearLinux: <https://clearlinux.org>  
  `Intel` `容器` `性能最快`  
-![](./pictures/clearlinuxshow.jpeg)
+![](./pictures/clearlinuxshow.jpeg)  
 ---
-![](./pictures/steamos.jpeg)
+![](./pictures/steamos.jpeg)  
  SteamOS: <https://store.steampowered.com/steamos>  
  `Steam` `游戏` `valve`  
-![](./pictures/steamoshow.png)
+![](./pictures/steamoshow.png)  
 ---
  WLinux: <https://www.microsoft.com/zh-cn/p/wlinux/9nv1gv1pxz6p?activetab=pivot:overviewtab>  
  `nonfree` `收费`  
