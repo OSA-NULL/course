@@ -7,7 +7,7 @@
 ![](./pictures/distro2.jpg)
 
 ## 教程链接
-![](./pictures/distrohero.jpg)
+![](./pictures/distrohero.jpg)  
  2018年最好的linux发行版介绍:<https://www.techradar.com/news/best-linux-distro> 
  2018 最佳Linux 发行版排行榜: <https://zhuanlan.zhihu.com/p/33771775>  
  linux维基百科: <https://zh.m.wikipedia.org/wiki/Linux>
@@ -24,7 +24,7 @@
 ![](./pictures/archshow.png)  
 ---
 ![](./pictures/manjaro.png)  
- manjaro: <https://manjaro.org>  
+ manjaro: <https://www.manjaro.org>  
  `美观` `基于arch` `新手友好` `滚动更新`  
 ![](./pictures/manjaroshow.jpg)  
 ---
@@ -44,7 +44,7 @@
 ![](./pictures/centoshow.jpeg)  
 ---
 ![](./pictures/redhat.png)  
-RedHatEnterprise: <https://www.redhat.com/zh/technologies/linux-platforms/enterprise-linux>  
+ RedHatEnterprise: <https://www.redhat.com/zh/technologies/linux-platforms/enterprise-linux>  
  `RedHat` `稳定` `服务器`  
 ![](./pictures/redhatshow.png)  
 ---
