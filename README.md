@@ -28,7 +28,7 @@
 - [x] 1. [linux历史及发行版的选择和安装](./doc/knowLinuxDistro.md)
 `linux` `Distro`
 
-- [ ] 2. [linux相关应用软件的选择和安装](./doc/knowLinuxSoftware.md)
+- [x] 2. [linux相关应用软件的选择和安装](./doc/knowLinuxSoftware.md)
 `linux` `Software`
 
 - [x] 3. [伪代码和程序设计]()
