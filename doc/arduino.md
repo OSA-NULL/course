@@ -1,23 +1,23 @@
 # arduion教程
 ![](./pictures/arduino.jpeg)
 ## 环境准备
-1. 编程软件
-    1. Arduino IDE
+### 编程软件
+#### Arduino IDE
     ![](./pictures/arduinoide.png)
-    2. Fritzing
-    ![](./pictures/fritizing.png)
-2. 基础硬件
-    1. arduino板
+#### Fritzing
+    ![](./pictures/fritzing.png)
+### 基础硬件
+#### arduino板
     ![](./pictures/arduinoboard.jpg)
-    2. 串口线
+#### 串口线
     ![](./pictures/arduinousb.png)
 ## 简单实践
-1. 呼吸灯
-    1. 需要器件
+### 呼吸灯
+#### 需要器件
     `arduino uno板` `led灯` `1k电阻`
-    2. 电路图
+#### 电路图
     ![](./pictures/呼吸灯电路图.png)
-    2. 代码
+### 代码
 ```arduino
 int ledPin = 10;
 
@@ -48,6 +48,7 @@ void fadeOff(unsigned int time,int decreament){
 }
 ```
 ## 扩展资料
-官网: <https://www.arduino.cc/>
-推荐教程：<https://www.tutorialspoint.com/arduino/>
+官网<https://www.arduino.cc/>  
+中文社区<https://www.arduino.cn/>  
+推荐教程<https://www.tutorialspoint.com/arduino/>  
 [blocklyduino](http://blocklyduino.github.io/BlocklyDuino/blockly/apps/blocklyduino/)在线可视化编辑器 *github地址*<https://github.com/BlocklyDuino/BlocklyDuino>

@@ -8,9 +8,9 @@
 
 ## 教程链接
 ![](./pictures/distrohero.jpg)  
- 2018年最好的linux发行版介绍:<https://www.techradar.com/news/best-linux-distro>  
- 2018 最佳Linux 发行版排行榜: <https://zhuanlan.zhihu.com/p/33771775>  
- linux维基百科: <https://zh.m.wikipedia.org/wiki/Linux>
+ 2018年最好的linux发行版介绍<https://www.techradar.com/news/best-linux-distro>  
+ 2018 最佳Linux 发行版排行榜<https://zhuanlan.zhihu.com/p/33771775>  
+ linux维基百科<https://zh.m.wikipedia.org/wiki/Linux>
 
 ## 发行版官网
 ![](./pictures/ubuntu.png)  
@@ -63,9 +63,9 @@
  `Steam` `游戏` `valve`  
 ![](./pictures/steamoshow.png)  
 ---
- WLinux: <https://www.microsoft.com/zh-cn/p/wlinux/9nv1gv1pxz6p?activetab=pivot:overviewtab>  
+ WLinux<https://www.microsoft.com/zh-cn/p/wlinux/9nv1gv1pxz6p?activetab=pivot:overviewtab>  
  `nonfree` `收费`  
- :blush: WSL: <https://docs.microsoft.com/en-us/windows/wsl/install-win10>  
+ :blush: WSL<https://docs.microsoft.com/en-us/windows/wsl/install-win10>  
  `microsoft` `nonfree` `命令行` `win10`  
 
 ## 国内镜像源
