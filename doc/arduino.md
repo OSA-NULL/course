@@ -3,20 +3,20 @@
 ## 环境准备
 ### 编程软件
 #### Arduino IDE
-    ![](./pictures/arduinoide.png)
+![](./pictures/arduinoide.png)
 #### Fritzing
-    ![](./pictures/fritzing.png)
+![](./pictures/fritzing.png)
 ### 基础硬件
 #### arduino板
-    ![](./pictures/arduinoboard.jpg)
+![](./pictures/arduinoboard.jpg)
 #### 串口线
-    ![](./pictures/arduinousb.png)
+![](./pictures/arduinousb.png)
 ## 简单实践
 ### 呼吸灯
 #### 需要器件
-    `arduino uno板` `led灯` `1k电阻`
+`arduino uno板` `led灯` `1k电阻`
 #### 电路图
-    ![](./pictures/呼吸灯电路图.png)
+![](./pictures/呼吸灯电路图.png)
 ### 代码
 ```arduino
 int ledPin = 10;
