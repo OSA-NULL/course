@@ -4,8 +4,17 @@
 ### 编程软件
 #### Arduino IDE
 ![](./pictures/arduinoide.png)
+#####下载链接
+官方:  <https://www.arduino.cc/en/Main/Software>
+中文社区:  <https://www.arduino.cn/resource-view-1.html>
+#####安装教程  
+CSDN:  <https://blog.csdn.net/qq_23937195/article/details/68944217>
+
 #### Fritzing
 ![](./pictures/fritzing.png)
+#####下载链接
+官方:  <http://fritzing.org/download/>
+中文社区:  <https://www.arduino.cn/resource-view-11.html>
 ### 基础硬件
 #### arduino板
 ![](./pictures/arduinoboard.jpg)
