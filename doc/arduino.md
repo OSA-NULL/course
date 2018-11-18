@@ -7,7 +7,7 @@
 ##### 下载链接
 官方<https://www.arduino.cc/en/Main/Software>  
 中文社区<https://www.arduino.cn/resource-view-1.html>  
-百度网盘<https://pan.baidu.com/s/1b3Otx8-ysmUxs9fwpKovPA#list/path=%2F%>  
+百度网盘<https://pan.baidu.com/s/1b3Otx8-ysmUxs9fwpKovPA>  
 ##### 安装教程  
 CSDN<https://blog.csdn.net/qq_23937195/article/details/68944217>
 #### Fritzing
@@ -22,6 +22,7 @@ CSDN<https://blog.csdn.net/qq_23937195/article/details/68944217>
 ![](./pictures/arduinousb.png)
 ## 语法解析
 **数据类型**
+
  类型 | 含义
  --- | ---
  void | 空
